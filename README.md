@@ -1,6 +1,9 @@
 # 📘 Tareas de Métodos Matemáticos
 
-Este repositorio contiene scripts desarrollados en MATLAB para la clase de Métodos Matemáticos. 
+Este repositorio contiene scripts desarrollados en MATLAB y C para la clase de Métodos Matemáticos.
+
+## Programa en C
+  - `Serie.c` → Código en C para calcular convergencia o el valor de n términos de la serie 1/k^m. Es posible ejecutar en Codespaces.
 ---
 
 ## 🚀 Abrir en MATLAB Online
@@ -17,8 +20,6 @@ Haz clic en el siguiente botón para abrir directamente la rama `MATLAB-scripts`
   - `Recta_en_cuboRGB.m` → Dibuja una recta en el espacio RGB entre dos puntos.
   - `Parabola_en_cuboRGB.m` → Representa una parábola en el cubo RGB.
   - Archivos `.fig` y `.png` → Visualizaciones generadas por los scripts.
-
-  - `Serie.c` → Código en C para calcular convergencia de dos series geométricas
 
 ---
 
